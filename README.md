@@ -8,7 +8,7 @@ My presentation slide at IDSECCONF 2012 created with latex beamer.
 
 Set the Figure Path
 -------------------
-Make sure you modify the ``\graphicspath`` at ``idsecconf-2012-id.tex'' to match your figure path 
+Make sure you modify the ``\graphicspath`` at ``idsecconf-2012-id.tex`` to match your figure path 
 
 How to generate PDF
 -------------------
@@ -20,3 +20,5 @@ First, make sure to install the pdflatex package
 Then run the pdflatex
 
 ``$ pdflatex idsecconf-2012-id.tex``
+
+- PDF: https://github.com/za/idsecconf2012/blob/master/idsecconf-2012-id.pdf
