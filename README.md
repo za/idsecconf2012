@@ -20,5 +20,3 @@ First, make sure to install the pdflatex package
 Then run the pdflatex
 
 ``$ pdflatex idsecconf-2012-id.tex``
-
-`PDF <https://github.com/za/idsecconf2012/blob/master/idsecconf-2012-id.pdf?raw=true>`_. 
