@@ -10,8 +10,10 @@ How to generate PDF
 -------------------
 
 First, make sure to install the pdflatex package
+
 ``# apt-get install pdflatex``
 
 Then run the pdflatex
+
 ``pdflatex idsecconf-2012-id.tex``
 
